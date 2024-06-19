@@ -10,11 +10,11 @@ The dataset smsspamcollection.tsv is a tab-separated values file with two column
 2. message: The content of the SMS message.
 
 # Prerequisites
-Python 3.x
-pandas
-numpy
-scikit-learn
-matplotlib
+1. Python 3.x
+2. pandas
+3. numpy
+4. scikit-learn
+5. matplotlib
 
 # Code Overview
 1. Loading and Exploring the Data
