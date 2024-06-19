@@ -30,17 +30,10 @@ Split the data into training and testing sets.
 X: Features (message length and punctuation count).
 y: Labels (ham/spam).
 10. Model Training and Evaluation
-a) Logistic Regression:
-Train a logistic regression model.
-Evaluate the model using a confusion matrix, classification report, and accuracy score.
-b) Naive Bayes:
-Train a Naive Bayes classifier.
-Evaluate the model using a confusion matrix, classification report, and accuracy score.
-c) Support Vector Machine (SVM):
-Train an SVM classifier.
-Evaluate the model using a confusion matrix, classification report, and accuracy score.
-Feature Extraction from Text
-11. Reload the dataset.
+a) Logistic Regression:Train a logistic regression model.Evaluate the model using a confusion matrix, classification report, and accuracy score.
+b) Naive Bayes:Train a Naive Bayes classifier.Evaluate the model using a confusion matrix, classification report, and accuracy score.
+c) Support Vector Machine (SVM):Train an SVM classifier. Evaluate the model using a confusion matrix, classification report, and accuracy score.
+11. Feature Extraction from Text. Reload the dataset.
 12. Split the data into training and testing sets.
 13. Use CountVectorizer to convert text messages into a matrix of token counts.
 14. Use TfidfTransformer to transform the count matrix to a normalized tf-idf representation.
