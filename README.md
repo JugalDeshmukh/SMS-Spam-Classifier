@@ -1,4 +1,4 @@
-# SMS-Spam-Classifier 
+# SMS Spam Detection
 
 # Introduction
 This project involves the classification of SMS messages as either "ham" (legitimate) or "spam" using various machine learning techniques. The dataset used is the "SMSSpamCollection.tsv", which contains labeled SMS messages and is a realtime dataset.
